@@ -1,8 +1,8 @@
 ![](https://img.shields.io/badge/Uneweb-blue)
 
-# Project Name
+# Odin Recipes
 
-> One paragraph statement about the project.
+> This is a project who has created to practice my skills in HTML. 
 
 ![screenshot](./app_screenshot.png)
 
@@ -10,7 +10,7 @@ Additional description about the project and its features.
 
 ## Built With
 
-- Major languages
+- HTML.
 - Frameworks
 - Technologies used
 
@@ -45,21 +45,13 @@ To get a local copy up and running follow these simple example steps.
 
 👤 **Arístides José Molina Pérez**
 
-- GitHub: [@aristides1000](https://github.com/aristides1000)
-- Twitter: [@aristides_1000](https://twitter.com/aristides_1000)
-- LinkedIn: [LinkedIn](https://www.linkedin.com/in/aristides-molina/)
-
-👤 **Author2**
-
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/linkedinhandle)
+- GitHub: [@francoALexande](https://github.com/francoAlexande).
 
 ## 🤝 Contributing
 
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the [issues page](issues/).
+Feel free to check the [issues page](https://github.com/francoAlexande/apple-page-clome-21Oct23/issues).
 
 ## Show your support
 
